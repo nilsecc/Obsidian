@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Cybersecurity Analyst/Introduction to Information Security/Principles of Information Security.md",
+                "file": "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Operational Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles of Information Security"
+              "title": "Operational Security"
             }
           }
         ]
@@ -171,23 +171,30 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "8fb5cf4f1b369355",
   "lastOpenFiles": [
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Structure of InfoSec.md",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Principles of Information Security.md",
-    "Welcome.md",
-    "images",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Application Security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Operational Security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Network Security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction/Structure of InfoSec.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction/Principles of Information Security.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Domains",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction",
+    "Junior Cybersecurity Analyst/Untitled",
     "images/Pasted image 20251130134545.png",
+    "images",
+    "Pasted image 20251130134545.png",
     "Junior Cybersecurity Analyst/Introduction to Information Security",
-    "Junior Cybersecurity Analyst"
+    "Junior Cybersecurity Analyst",
+    "Welcome.md"
   ]
 }
