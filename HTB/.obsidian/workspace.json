@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Cybersecurity Analyst/Network/Networking tools.md",
+                "file": "Junior Cybersecurity Analyst/Network/Proxies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Networking tools"
+              "title": "Proxies"
             }
           }
         ]
@@ -182,9 +182,12 @@
   },
   "active": "8f998ec62862901e",
   "lastOpenFiles": [
+    "Pasted image 20251210212252.png",
+    "Pasted image 20251210210340.png",
+    "Junior Cybersecurity Analyst/Network/Networking tools.md",
+    "Junior Cybersecurity Analyst/Network/Proxies.md",
     "Junior Cybersecurity Analyst/Network/Networking structure.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Threats.md",
-    "Junior Cybersecurity Analyst/Network/Networking tools.md",
     "images/Pasted image 20251210141546.png",
     "conflict-files-obsidian-git.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Network",
@@ -211,7 +214,6 @@
     "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction",
     "images/Pasted image 20251130134545.png",
     "images",
-    "Pasted image 20251130134545.png",
     "Junior Cybersecurity Analyst/Introduction to Information Security",
     "Junior Cybersecurity Analyst",
     "Welcome.md"
