@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Cybersecurity Analyst/Network/Protocols & Terminology.md",
+                "file": "Junior Cybersecurity Analyst/Network/Wireless networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocols & Terminology"
+              "title": "Wireless networks"
             }
           }
         ],
@@ -195,15 +195,17 @@
   },
   "active": "820e55fd93739629",
   "lastOpenFiles": [
-    "Junior Cybersecurity Analyst/Network/Networking workflow.md",
+    "Pasted image 20251216185309.png",
+    "Junior Cybersecurity Analyst/Network/Protocols & Terminology.md",
+    "Junior Cybersecurity Analyst/Network/Wireless networks.md",
+    "Junior Cybersecurity Analyst/Network/Proxies.md",
     "Junior Cybersecurity Analyst/Network/Networking tools.md",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Threats.md",
+    "Junior Cybersecurity Analyst/Network/Adressing.md",
+    "Junior Cybersecurity Analyst/Network/Networking structure.md",
+    "Junior Cybersecurity Analyst/Network/Networking workflow.md",
     "images/Pasted image 20251210210340.png",
     "images/Pasted image 20251210212252.png",
-    "Junior Cybersecurity Analyst/Network/Protocols & Terminology.md",
-    "Junior Cybersecurity Analyst/Network/Adressing.md",
-    "Junior Cybersecurity Analyst/Network/Proxies.md",
-    "Junior Cybersecurity Analyst/Network/Networking structure.md",
+    "Junior Cybersecurity Analyst/Introduction to Information Security/Threats.md",
     "images/Pasted image 20251210141546.png",
     "conflict-files-obsidian-git.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Network",
