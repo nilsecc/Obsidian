@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+                "file": "Instalacion Arch/Como va Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vendor Specific Information"
+              "title": "Como va Linux"
             }
           }
         ]
@@ -182,8 +182,11 @@
   },
   "active": "32a6e5e25fc4bb34",
   "lastOpenFiles": [
-    "Junior Cybersecurity Analyst/Network/Wireless networks.md",
     "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+    "Instalacion Arch/Como va Linux.md",
+    "Pasted image 20251222202033.png",
+    "Pasted image 20251222201150.png",
+    "Junior Cybersecurity Analyst/Network/Wireless networks.md",
     "Instalacion Arch/PACMAN.md",
     "Instalacion Arch/2.1 Post Instalación.md",
     "Instalacion Arch/1.3 Instalación Arch.md",
@@ -208,8 +211,6 @@
     "Junior Cybersecurity Analyst/Introduction to Information Security/Network",
     "images/Pasted image 20251210142025.png",
     "images/Pasted image 20251210141859.png",
-    "images/Pasted image 20251210141655.png",
-    "images/Pasted image 20251210141006.png",
     "Junior Cybersecurity Analyst/Network",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Physical Security.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Operational Security.md",
@@ -221,7 +222,6 @@
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains/Application Security.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Threats",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction/Principles of Information Security.md",
-    "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction/Structure of InfoSec.md",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Domains",
     "Junior Cybersecurity Analyst/Introduction to Information Security/Introduction",
     "images",
