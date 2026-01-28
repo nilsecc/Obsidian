@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "53d4bdeca860e1ef",
+        "id": "f864d64d4dfc9e27",
         "type": "tabs",
         "children": [
           {
-            "id": "6b559b09e2a8e417",
+            "id": "1a10eff0f08b66d6",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20260128125753.png"
+                "file": "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/Gestor archivos - PACMAN.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260128125753"
+              "icon": "lucide-file",
+              "title": "Gestor archivos - PACMAN"
             }
           }
         ]
@@ -181,25 +183,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "6b559b09e2a8e417",
+  "active": "571038f126d559dd",
   "lastOpenFiles": [
-    "Junior Cybersecurity Analyst/Network/Connection Establishment.md",
-    "images/Pasted image 20260128133224.png",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/Como va Linux.md",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/2.1 Post Instalación.md",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/1.3 Instalación Arch.md",
+    "images/Pasted image 20260128173404.png",
+    "Junior Cybersecurity Analyst/3. Linux/Linux.md",
+    "images/Pasted image 20260128175448.png",
+    "Junior Cybersecurity Analyst/2. Network/Connection Establishment.md",
+    "Junior Cybersecurity Analyst/3. Linux",
+    "images/Pasted image 20260128162953.png",
+    "images/Pasted image 20260128164051.png",
+    "images/Pasted image 20260128163941.png",
+    "images/Pasted image 20260128163603.png",
+    "images/Pasted image 20260128163259.png",
+    "Junior Cybersecurity Analyst/Network/TCP UDP Connectio.md",
     "images/Pasted image 20260128125753.png",
+    "images/Pasted image 20260128133224.png",
     "images/Pasted image 20260128123426.png",
-    "images/Pasted image 20260128125300.png",
-    "images/Pasted image 20260128125016.png",
-    "Junior Cybersecurity Analyst/Network/Vendor Specific Information.md",
+    "Junior Cybersecurity Analyst/2. Network/Vendor Specific Information.md",
     "Junior Cybersecurity Analyst/Network/Connection Establishment",
     "Junior Cybersecurity Analyst/Network/Protocols & Terminology",
     "Junior Cybersecurity Analyst/Network/Adressing",
     "Junior Cybersecurity Analyst/Network/Models",
     "Junior Cybersecurity Analyst/Network/Structure",
-    "Instalacion Arch/PACMAN.md",
-    "Instalacion Arch/Como va Linux.md",
-    "Instalacion Arch/2.1 Post Instalación.md",
-    "Instalacion Arch/1.3 Instalación Arch.md",
-    "Instalacion Arch/1.2 USB Booteable de Arch.md",
-    "Instalacion Arch/1.1 Configurar la partición.md"
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/Gestor archivos - PACMAN.md",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/1.2 USB Booteable de Arch.md",
+    "Junior Cybersecurity Analyst/3. Linux/Instalacion Arch/1.1 Configurar la partición.md"
   ]
 }
